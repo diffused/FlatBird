@@ -6,4 +6,4 @@ Removed many of the gradient effects, squared up the window edges, made window e
 
 Make sure you turn on Compositor and enable window shadows otherwise it's hard to disguish the edges.
 
-![Screenshot](http://i.imgur.com/ZT7EimF.jpg)
+![Screenshot](http://i.imgur.com/EZ0BASc.jpg)
